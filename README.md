@@ -14,3 +14,5 @@
 **Lin Jishen**: Dataset standardization and data augmentation processing, front-end and back-end development, AI Agent construction, etc.
 
 **Wang Chengwei**: UNet model reproduction, model training and optimization, detection result visualization, etc.
+
+The model can be downloaded from https://huggingface.co/Euuugeo/DiabeticRetinopathy.
